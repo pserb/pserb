@@ -1,5 +1,5 @@
 ### Paul Serbanescu
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserb)](https://github.com/anuraghazra/github-readme-stats)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserb&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
