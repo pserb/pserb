@@ -1,5 +1,4 @@
-### Paul Serbanescu
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pserb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Paul Serbanescu  🐧
 
 
 
