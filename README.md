@@ -1,5 +1,5 @@
 ### Paul Serbanescu  🐧
-https://pserb.me
+https://www.pserb.me
 
 
 <!--
